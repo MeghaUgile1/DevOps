@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/TestDemo/Properties/PublishProfiles/TestDemo20181120045840 - Web Deploy.pubxml
