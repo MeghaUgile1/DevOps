@@ -97,6 +97,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HostController.cs" />
     <Compile Include="Controllers\Test1Controller.cs" />
+    <Compile Include="Controllers\Test2Controller.cs" />
     <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Controllers\VSTSController.cs" />
     <Compile Include="Global.asax.cs">
@@ -122,6 +123,7 @@
     <Folder Include="Views\Home\" />
     <Folder Include="Views\Host\" />
     <Folder Include="Views\Test1\" />
+    <Folder Include="Views\Test2\" />
     <Folder Include="Views\Test\" />
     <Folder Include="Views\VSTS\" />
   </ItemGroup>
